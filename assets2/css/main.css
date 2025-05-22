@@ -98,9 +98,6 @@ input, select, textarea {
 		box-sizing: inherit;
 	}
 
-	body {
-		background-color: #1e252d;
-	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
 			-moz-animation: none !important;
